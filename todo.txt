@@ -1,0 +1,10 @@
+IM TO LEARN GIT
+.   . JAVASCRIPT
+    .   . NODE.JS  
+            REACT 
+            ANGULAR 
+            EXPRESS
+.. PYTHON
+    DJANGO
+    FLASK
+e.t.c
