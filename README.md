@@ -1,1 +1,2 @@
 this contains the description of the project (fake sha all theses is just for practise)
+this may be a nonsense readme.md file maybe the worst in the world of programming wait im not sure people might have written worse.
